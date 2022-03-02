@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es6",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": ["es2020", "es6"],
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  }
+}
